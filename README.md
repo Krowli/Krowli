@@ -20,11 +20,13 @@
 
 ### Focus Areas
 
-- Tools for AI coding agents: project memory, task boards, MCP servers, agent skills.
-- Automated QA: headless browser checks, screenshot diffs, bug reports with repro steps.
-- Products where every number shows how it was calculated: tax, analytics, money.
-- Privacy-friendly analytics with no cookies.
-- Animated, hand-made websites with WebGL, 3D and scroll-driven scenes.
+- **Software architecture:** module boundaries, clean domain models, design systems kept consistent by tests rather than reviews.
+- **Performance optimization:** query tuning, rendering and frame budgets, caching, bundle size, profiling before guessing.
+- **Databases:** PostgreSQL schema design, migrations with rollbacks, row-level security, Supabase.
+- **Integrations:** payments and refunds (Stripe, webhooks), Jira Cloud apps, e-mail delivery, OAuth, MCP servers, third-party APIs.
+- **Security and privacy:** Content Security Policy and security headers, server-side validation, secrets handling, GDPR-compliant data flows.
+- **Reliability:** CI pipelines, automated QA in headless browsers, regression checks, watching production after release.
+- **AI engineering:** agent workflows, tool calling, evaluation, LLM features that hold up in production.
 
 ### Products
 
