@@ -47,10 +47,6 @@ I work with founders and companies from the first idea to a product in productio
 - [**visual-parity**](https://github.com/Krowli/visual-parity): see the UI, don't guess. Headless screenshots diffed against the design.
 - [**opencode-claude-bridge**](https://github.com/Krowli/opencode-claude-bridge): use a Claude Max subscription in OpenCode through the official Claude Agent SDK.
 
-### GitHub Stats
-
-<img src="github-metrics.svg" alt="GitHub metrics" width="100%">
-
 ### Contact
 
 - Site: [aioomi.com](https://aioomi.com)
