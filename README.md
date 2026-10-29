@@ -20,13 +20,17 @@
 
 ### Focus Areas
 
-- **Software architecture:** module boundaries, clean domain models, design systems kept consistent by tests rather than reviews.
-- **Performance optimization:** query tuning, rendering and frame budgets, caching, bundle size, profiling before guessing.
-- **Databases:** PostgreSQL schema design, migrations with rollbacks, row-level security, Supabase.
-- **Integrations:** payments and refunds (Stripe, webhooks), Jira Cloud apps, e-mail delivery, OAuth, MCP servers, third-party APIs.
-- **Security and privacy:** Content Security Policy and security headers, server-side validation, secrets handling, GDPR-compliant data flows.
-- **Reliability:** CI pipelines, automated QA in headless browsers, regression checks, watching production after release.
-- **AI engineering:** agent workflows, tool calling, evaluation, LLM features that hold up in production.
+I work with founders and companies from the first idea to a product in production, and stay responsible for it afterwards. Most of my work sits where business goals, architecture and data meet.
+
+- **Product and business discovery.** Defining the actual problem before choosing a solution: market and competitor research, requirements analysis, feasibility studies and business plans for new ventures.
+- **Solution design.** Turning business requirements into a technical plan with clear scope, priorities, risks and costs, so decisions are made before code is written.
+- **Architecture.** Clear module boundaries and domain models that keep a codebase easy to change as the product grows.
+- **Data.** PostgreSQL schema design and versioned migrations, with access control enforced in the database through row-level security.
+- **Integrations.** Payments and refunds, Atlassian Marketplace apps, transactional email, OAuth and third-party APIs, connecting new products with the systems a business already runs on.
+- **Performance.** Decisions based on measurement: query plans, rendering cost, bundle size.
+- **Security and privacy.** Security headers, server-side validation, careful secrets handling and data flows designed for GDPR.
+- **Delivery.** Continuous integration, automated browser testing, regression checks and monitoring after release.
+- **Applied AI.** Agent workflows and LLM features with evaluation, built to behave predictably in production.
 
 ### Products
 
